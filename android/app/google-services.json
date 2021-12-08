@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165722032972",
+    "firebase_url": "https://vistor-management-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vistor-management-app",
+    "storage_bucket": "vistor-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165722032972:android:baf86d3ef119841cff9de9",
+        "android_client_info": {
+          "package_name": "com.example.vms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165722032972-h2dmlttfctcvgo25otclu2j61khiqui8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHFA5n7ibpik4VAd2sAyF_SqntzMCWuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165722032972-h2dmlttfctcvgo25otclu2j61khiqui8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
